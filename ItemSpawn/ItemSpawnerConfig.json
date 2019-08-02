@@ -1,0 +1,19 @@
+{
+  "ItemSpawnerEntries": [
+    {
+      "ItemId": "ThompsonMk2",
+      "Category": "SMG_Rifle",
+      "SubCategory": "SMG",
+      "Description": "A ThompsonMk2",
+      "Secondaries": [
+        {
+          "ItemId": "MagazineThompsonMk2",
+          "Category": "Magazine",
+          "SubCategory": "None",
+          "Description": "A ThompsonMk2 mag",
+          "Secondaries": [] 
+        }
+      ] 
+    }
+  ] 
+}
